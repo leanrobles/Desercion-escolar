@@ -1,0 +1,121 @@
+header{
+  background-size: cover;
+  max-width: 100%;
+    position: fixed;
+    background-image: url("https://www.ishir-conicet.gov.ar/uploads_ishir/2020/07/Fondo-celeste.png");
+    height: 130px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+  #subtitulo2 {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url("https://www.ishir-conicet.gov.ar/uploads_ishir/2020/07/Fondo-celeste.png");
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 150px;
+    text-align: center;
+  }
+  #subtitulo3 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url("https://www.ishir-conicet.gov.ar/uploads_ishir/2020/07/Fondo-celeste.png");
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 200px;
+  }
+  #subtitulo4 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:url("https://www.ishir-conicet.gov.ar/uploads_ishir/2020/07/Fondo-celeste.png");
+    border-radius: 10px;
+    width: 300px;
+    margin-left: 200px;
+    text-align: center;
+  }
+  #texto1 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 35px;
+    padding-right: 35px;
+    background-image:url("https://www.ishir-conicet.gov.ar/uploads_ishir/2020/07/Fondo-celeste.png");
+    background-size: cover;
+    max-width: 100%;
+    border-radius: 20px;
+  }
+ 
+  
+  #texto2 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+    background-image:url("https://www.ishir-conicet.gov.ar/uploads_ishir/2020/07/Fondo-celeste.png");
+    background-size: cover;
+    max-width: 100%;
+    border-radius: 20px;
+  }
+  
+  #texto3 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+    background-image:url("https://www.ishir-conicet.gov.ar/uploads_ishir/2020/07/Fondo-celeste.png");
+    background-size: cover;
+    max-width: 100%;
+    border-radius: 20px;
+  }
+  button{
+    height: 50px;
+    width: 200px;
+    background-image: url("https://www.ishir-conicet.gov.ar/uploads_ishir/2020/07/Fondo-celeste.png");
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+  border-radius: 20px;
+}
+body{
+  background-size: cover;
+  max-width: 100%;
+  background-image: url("https://media.discordapp.net/attachments/1045861370689761353/1048342583560130650/image.png?width=1202&height=676")
+ }
+ #bot1{
+  position: absolute;
+  border-radius: 20px;
+  margin-left: 400px;
+  border: none;
+  margin-top: 80px;
+ }
+ #bot2{
+  position: absolute;
+  border-radius: 20px;
+  margin-left: 700px;
+  border: none;
+  margin-top: 80px;
+ }
+ #bot3{
+  position: absolute;
+  border-radius: 20px;
+  margin-left: 1000px;
+  border: none;
+  margin-top: 80px;
+ }
+ #bot4{
+  position: absolute;
+  border-radius: 20px;
+  margin-left: 1300px;
+  border: none;
+  margin-top: 80px;
+ }
